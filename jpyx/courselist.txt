@@ -1,0 +1,1600 @@
+{
+	"total": 79,
+	"rows": [{
+		"id": "1948",
+		"createDate": "2019-09-06 11:19:19",
+		"updateDate": "2019-09-06 23:55:09",
+		"category": 3,
+		"name": "远翔合唱团",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f538679b0b45480f9b425d86a148e9fd",
+			"tname": "王娜娜"
+		},
+		"grade": "0,1,",
+		"timeinterval": 39,
+		"palce": "510",
+		"plannenrollment": 40,
+		"courseinfo": "校合唱团，选修需提前通过考核。新团员需要连上周三下午第八节、第九节。所有合唱团成员期末考核通过后，音乐课给与全优奖励。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "王娜娜",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:19:19",
+		"update_date": "2019-09-06 23:55:09"
+	}, {
+		"id": "1936",
+		"createDate": "2019-09-06 11:23:09",
+		"updateDate": "2019-09-06 23:35:37",
+		"category": 2,
+		"name": "远翔微讯社",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "ffd55d73fdbd409391e02457fe8a0210",
+			"tname": "毛懿茵"
+		},
+		"grade": "0,1,2,",
+		"timeinterval": 38,
+		"palce": "205",
+		"plannenrollment": 40,
+		"courseinfo": "远翔微讯社，欢迎你的加入。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "毛懿茵",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:23:09",
+		"update_date": "2019-09-06 23:35:37"
+	}, {
+		"id": "1938",
+		"createDate": "2019-09-06 11:22:59",
+		"updateDate": "2019-09-07 06:12:54",
+		"category": 9,
+		"name": "古诗文竞赛",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "02ea7429f17446cfbd158c685d7606e4",
+			"tname": "董元"
+		},
+		"grade": "0,1,2,",
+		"timeinterval": 38,
+		"palce": "401",
+		"plannenrollment": 30,
+		"courseinfo": "帮助学生准备中学生古诗文阅读大赛。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "董元",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:22:59",
+		"update_date": "2019-09-07 06:12:54"
+	}, {
+		"id": "1944",
+		"createDate": "2019-09-06 11:21:12",
+		"updateDate": "2019-09-07 07:18:37",
+		"category": 3,
+		"name": "DIY编织社",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f0d898383a554a2191a8fbb5433893d7",
+			"tname": "胡晓娟"
+		},
+		"grade": "0,1,2,",
+		"timeinterval": 38,
+		"palce": "402",
+		"plannenrollment": 30,
+		"courseinfo": "动动手，编出你所喜欢的包包，小玩偶，围巾。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "胡晓娟",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:21:12",
+		"update_date": "2019-09-07 07:18:37"
+	}, {
+		"id": "1945",
+		"createDate": "2019-09-06 11:20:56",
+		"updateDate": "2019-09-06 23:47:49",
+		"category": 2,
+		"name": "外国文学名著选读",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f98c685ba5634d95b1bff5c2470c3df0",
+			"tname": "高榕蔚"
+		},
+		"grade": "0,1,2,",
+		"timeinterval": 38,
+		"palce": "308",
+		"plannenrollment": 50,
+		"courseinfo": "指导阅读外国经典名著，培养良好的阅读习惯，提升学生的思辩品质。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "高榕蔚",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:20:56",
+		"update_date": "2019-09-06 23:47:49"
+	}, {
+		"id": "1951",
+		"createDate": "2019-09-06 11:17:42",
+		"updateDate": "2019-09-06 23:44:32",
+		"category": 3,
+		"name": "远翔合唱团",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f538679b0b45480f9b425d86a148e9fd",
+			"tname": "王娜娜"
+		},
+		"grade": "0,",
+		"timeinterval": 38,
+		"palce": "900",
+		"plannenrollment": 40,
+		"courseinfo": "地点：音乐教室。校合唱团，选修需提前通过考核。新团员需要连上周三下午第八节、第九节。所有合唱团成员期末考核通过后，音乐课给与全优奖励。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "王娜娜",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:17:42",
+		"update_date": "2019-09-06 23:44:32"
+	}, {
+		"id": "1955",
+		"createDate": "2019-09-06 11:17:07",
+		"updateDate": "2019-09-06 23:38:39",
+		"category": 2,
+		"name": "吉他社",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "253989e01c1d4630875a4c40947b577b",
+			"tname": "蔡凌捷"
+		},
+		"grade": "0,1,2,",
+		"timeinterval": 38,
+		"palce": "403",
+		"plannenrollment": 25,
+		"courseinfo": "欢迎喜欢音乐的同学参加。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "蔡凌捷",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:17:07",
+		"update_date": "2019-09-06 23:38:39"
+	}, {
+		"id": "1956",
+		"createDate": "2019-09-06 11:16:57",
+		"updateDate": "2019-09-06 23:47:20",
+		"category": 3,
+		"name": "室内弦乐四重奏",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f8c3fd3793e1471d9b4159b11a63327h",
+			"tname": "徐嘉悦"
+		},
+		"grade": "0,1,2,",
+		"timeinterval": 38,
+		"palce": "201",
+		"plannenrollment": 15,
+		"courseinfo": "本社团旨在组建校内的弦乐四重奏乐团，招募有弦乐基础（小提琴、中提琴、大提琴）的学生来参加社团活动。要求自备乐器并且有一定的识谱能力。社团将培养一定的音乐修养以及团队合作意识，希望大家在音乐中学习与进步！",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "徐嘉悦",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:16:57",
+		"update_date": "2019-09-06 23:47:20"
+	}, {
+		"id": "1960",
+		"createDate": "2019-09-06 11:02:59",
+		"updateDate": "2019-09-07 07:30:44",
+		"category": 2,
+		"name": "翼- studio",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "2591d5391df548c9b617cf5cc0912583",
+			"tname": "王圣飞"
+		},
+		"grade": "0,1,2,",
+		"timeinterval": 38,
+		"palce": "511",
+		"plannenrollment": 50,
+		"courseinfo": "视频拍摄和制作 需要带手机等拍摄设备",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 40,
+		"teachername": "王圣飞",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:02:59",
+		"update_date": "2019-09-07 07:30:44"
+	}, {
+		"id": "1982",
+		"createDate": "2019-09-06 11:03:51",
+		"updateDate": "2019-09-07 07:31:51",
+		"category": 5,
+		"name": "艺术&middot;心理沟通课",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f8c3fd3794e1471d9b4159b21a63327h",
+			"tname": "王华欣"
+		},
+		"grade": "0,1,2,",
+		"timeinterval": 38,
+		"palce": "601",
+		"plannenrollment": 25,
+		"courseinfo": "利用表达艺术治疗、非暴力沟通的元素，帮助初中生与人建立融洽和谐的人际关系，树立积极的自我价值感。\r\n第1-3周表达艺术治疗与非暴力沟通体验介绍，团体信任的建立。\r\n第4-6周 模拟亲子之间的冲突场景，并尝试运用艺术与非暴力沟通的形式解决。\r\n第7-9周 模拟同学之间的冲突场景，并尝试运用艺术与非暴力沟通的形式解决。\r\n第10-12周 团体结束",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 10,
+		"teachername": "王华欣",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:03:51",
+		"update_date": "2019-09-07 07:31:51"
+	}, {
+		"id": "1993",
+		"createDate": "2019-09-06 12:53:22",
+		"updateDate": "2019-09-06 23:09:50",
+		"category": 13,
+		"name": "羽毛球",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "dc6dbf7b1dbf4f10bbe2371a8aa3408f",
+			"tname": "李月雷"
+		},
+		"grade": "0,1,",
+		"timeinterval": 38,
+		"palce": "901",
+		"plannenrollment": 20,
+		"courseinfo": "拓展课的目的是要让学生了解、掌握一项运动，并且能自主开展活动，终身受益，所以要求学生在学习过程中注重基本技术练习，提高羽毛球基本技术水平；通过综合力量的练习，提高学生的力量素质；使学生体验羽毛球运动的乐趣及同学间互帮互助的友谊。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "李月雷",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 12:53:22",
+		"update_date": "2019-09-06 23:09:50"
+	}, {
+		"id": "1996",
+		"createDate": "2019-09-06 13:40:34",
+		"updateDate": "2019-09-06 23:59:27",
+		"category": 12,
+		"name": "西班牙语",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "60145551cdc14e36a2ca87715e1d3285",
+			"tname": "外聘老师"
+		},
+		"grade": "0,",
+		"timeinterval": 38,
+		"palce": "302",
+		"plannenrollment": 30,
+		"courseinfo": "西班牙语入门",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "外聘老师",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 13:40:34",
+		"update_date": "2019-09-06 23:59:27"
+	}, {
+		"id": "2005",
+		"createDate": "2019-09-06 15:25:01",
+		"updateDate": "2019-09-06 23:24:56",
+		"category": 2,
+		"name": "乒乓球社",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "c05ca7637551411e882c1f8dc9e0fca6",
+			"tname": "李友梅"
+		},
+		"grade": "0,1,2,",
+		"timeinterval": 38,
+		"palce": "408",
+		"plannenrollment": 20,
+		"courseinfo": "玩乒乓，乐无穷",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "李友梅",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 15:25:01",
+		"update_date": "2019-09-06 23:24:56"
+	}, {
+		"id": "2012",
+		"createDate": "2019-09-06 16:18:18",
+		"updateDate": "2019-09-06 23:15:23",
+		"category": 2,
+		"name": "汉服社",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "60145551cdc14e36a2ca87715e1d3282",
+			"tname": "王丽娟"
+		},
+		"grade": "0,1,2,",
+		"timeinterval": 38,
+		"palce": "207",
+		"plannenrollment": 40,
+		"courseinfo": "通过了解汉服穿搭，历届中国传统文化的特点和内涵",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "王丽娟",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 16:18:18",
+		"update_date": "2019-09-06 23:15:23"
+	}, {
+		"id": "1935",
+		"createDate": "2019-09-06 11:06:29",
+		"updateDate": "2019-09-06 23:01:17",
+		"category": 3,
+		"name": "健美操、啦啦操",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "977db38035c34451a8bb64f7a6f4357f",
+			"tname": "蔡祺颖"
+		},
+		"grade": "0,1,",
+		"timeinterval": 37,
+		"palce": "501",
+		"plannenrollment": 40,
+		"courseinfo": "健美操、啦啦操有利于培养学生正确的形体姿态和良好的气质、增强集体意识、培养学生乐感，让学生在运动与音乐在感受力与美带来的青春活力。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "蔡祺颖",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:06:29",
+		"update_date": "2019-09-06 23:01:17"
+	}, {
+		"id": "1947",
+		"createDate": "2019-09-06 11:18:36",
+		"updateDate": "2019-09-06 23:44:25",
+		"category": 2,
+		"name": "烘焙社",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "0b21e05cc1e44a05afebe3d00ba112b0",
+			"tname": "何樨盛"
+		},
+		"grade": "0,1,",
+		"timeinterval": 37,
+		"palce": "902",
+		"plannenrollment": 30,
+		"courseinfo": "学习烘焙理论，体验烘焙过程，将课堂所学的称量、计算等知识进行实践运用，学习合作，学会分享，体验劳动的快乐，品尝生活的美好。\r\n*选课时，周三第7节和第8节均需勾选。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "何樨盛",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 3,
+		"create_date": "2019-09-06 11:18:36",
+		"update_date": "2019-09-06 23:44:25"
+	}, {
+		"id": "1949",
+		"createDate": "2019-09-06 11:18:55",
+		"updateDate": "2019-09-06 23:11:09",
+		"category": 3,
+		"name": "琴苑-古筝",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f538679b0b45480f9b425d86a148e9fd",
+			"tname": "王娜娜"
+		},
+		"grade": "0,1,",
+		"timeinterval": 37,
+		"palce": "510",
+		"plannenrollment": 10,
+		"courseinfo": "报名后需通过考核后才能正式选课，学期末通过课程考核的团员给与音乐课全优奖励。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "王娜娜",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:18:55",
+		"update_date": "2019-09-06 23:11:09"
+	}, {
+		"id": "1961",
+		"createDate": "2019-09-06 14:46:34",
+		"updateDate": "2019-09-06 23:30:36",
+		"category": 5,
+		"name": "瑜伽路上",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "2591d5391df548c9b617cf5cc0912583",
+			"tname": "王圣飞"
+		},
+		"grade": "0,",
+		"timeinterval": 37,
+		"palce": "304",
+		"plannenrollment": 20,
+		"courseinfo": "放松身体 放松心情",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "王圣飞",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 14:46:34",
+		"update_date": "2019-09-06 23:30:36"
+	}, {
+		"id": "1970",
+		"createDate": "2019-09-06 11:12:43",
+		"updateDate": "2019-09-06 23:59:53",
+		"category": 10,
+		"name": "机器人的设计与制作",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "8a1f267f425f4f2a896a739c460512e2",
+			"tname": "陈科夫"
+		},
+		"grade": "0,",
+		"timeinterval": 37,
+		"palce": "4122",
+		"plannenrollment": 15,
+		"courseinfo": "利用套材设计并制作机器人，培养学生的动手能力。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "陈科夫",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:12:43",
+		"update_date": "2019-09-06 23:59:53"
+	}, {
+		"id": "1972",
+		"createDate": "2019-09-06 11:06:46",
+		"updateDate": "2019-09-07 06:12:54",
+		"category": 1,
+		"name": "数学拓展（2）",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f8c3fd3793e1471d9b4159b11a63217f",
+			"tname": "裴文通"
+		},
+		"grade": "0,",
+		"timeinterval": 37,
+		"palce": "103",
+		"plannenrollment": 30,
+		"courseinfo": "数学类拓展",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "裴文通",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:06:46",
+		"update_date": "2019-09-07 06:12:54"
+	}, {
+		"id": "1976",
+		"createDate": "2019-09-06 11:22:00",
+		"updateDate": "2019-09-06 22:45:37",
+		"category": 10,
+		"name": "3D打印--从全面了解到亲手制作",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "9f6d497d5d0b41ba87bde6cea76084aa",
+			"tname": "闫雪"
+		},
+		"grade": "0,1,",
+		"timeinterval": 37,
+		"palce": "4121",
+		"plannenrollment": 15,
+		"courseinfo": "本课程为周三第7节、第8节的两个课时连上。选择本课程的同学，只需在系统选报周三第7节。请同学报名时注意",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "闫雪",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 2,
+		"create_date": "2019-09-06 11:22:00",
+		"update_date": "2019-09-06 22:45:37"
+	}, {
+		"id": "1980",
+		"createDate": "2019-09-06 11:05:57",
+		"updateDate": "2019-09-06 23:22:03",
+		"category": 1,
+		"name": "数学拓展（一）",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "70bec489133849c6b84789a1ec0d4e56",
+			"tname": "张巍"
+		},
+		"grade": "0,",
+		"timeinterval": 37,
+		"palce": "104",
+		"plannenrollment": 30,
+		"courseinfo": "预备数学拓展 基础数论",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "张巍",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:05:57",
+		"update_date": "2019-09-06 23:22:03"
+	}, {
+		"id": "1981",
+		"createDate": "2019-09-06 14:49:18",
+		"updateDate": "2019-09-06 23:54:35",
+		"category": 7,
+		"name": "朗读者",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "c05ca7637551411e882c1f8dc9e0fca6",
+			"tname": "李友梅"
+		},
+		"grade": "0,1,",
+		"timeinterval": 37,
+		"palce": "102",
+		"plannenrollment": 30,
+		"courseinfo": "按照主题词选文朗读分享",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "李友梅",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 14:49:18",
+		"update_date": "2019-09-06 23:54:35"
+	}, {
+		"id": "1983",
+		"createDate": "2019-09-06 11:05:01",
+		"updateDate": "2019-09-06 23:08:26",
+		"category": 1,
+		"name": "魔幻文学&mdash;&mdash;哈里&middot;波特系列",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "60145551cdc14e36a2ca87715e1d3282",
+			"tname": "王丽娟"
+		},
+		"grade": "0,",
+		"timeinterval": 37,
+		"palce": "205",
+		"plannenrollment": 40,
+		"courseinfo": "从哈利波特系列小说阅读和影视作品的欣赏，感受魔幻文学的魅力！",
+		"creater": {
+			"id": "145afd7aa871485e9846c797f938df4d",
+			"name": "王丽娟",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": false
+		},
+		"updater": {
+			"id": "145afd7aa871485e9846c797f938df4d",
+			"name": "王丽娟",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": false
+		},
+		"enrollment": 0,
+		"teachername": "王丽娟",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 0,
+		"create_date": "2019-09-06 11:05:01",
+		"update_date": "2019-09-06 23:08:26"
+	}, {
+		"id": "1986",
+		"createDate": "2019-09-06 11:04:11",
+		"updateDate": "2019-09-06 23:43:15",
+		"category": 3,
+		"name": "DIY手绘书",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "aff298d8b88c4110b210c38cfd6201ac",
+			"tname": "罗悦"
+		},
+		"grade": "0,1,",
+		"timeinterval": 37,
+		"palce": "511",
+		"plannenrollment": 40,
+		"courseinfo": "温馨提示：本课程为连续2课时（周三第7~8节），有意报名的同学周三第8节课请不要另选其他课程！\r\n课程福利：本课程成绩可抵充美术课期末总评分，凡选课并良好完成学习任务的同学可免修美术课部分课程。\r\n\r\n本课程通过欣赏优秀样例、合作学习研讨等方式进行课堂实践，创作出凝聚集体智慧又兼具个人特色的手绘书（手账本）。在实践过程中发展识图、审美和创新能力，同时锻炼观察、探究、合作、沟通、表达、分享、评价等综合学习与社交能力。课程结束时，你将拥有一本独一无二的自创书籍，记录你的奇思妙想或回忆点滴。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "罗悦",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 2,
+		"create_date": "2019-09-06 11:04:11",
+		"update_date": "2019-09-06 23:43:15"
+	}, {
+		"id": "1994",
+		"createDate": "2019-09-06 13:41:04",
+		"updateDate": "2019-09-07 07:21:24",
+		"category": 1,
+		"name": "基础日语",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f8c3fd3793e1471d9b4159b11a63327h",
+			"tname": "徐嘉悦"
+		},
+		"grade": "0,1,",
+		"timeinterval": 37,
+		"palce": "303",
+		"plannenrollment": 40,
+		"courseinfo": "对岛国文化感兴趣的小伙伴来一起学习日语吧！也欢迎没有基础的同学们来报名本课程！手把手教你玩转日本~",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "徐嘉悦",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 13:41:04",
+		"update_date": "2019-09-07 07:21:24"
+	}, {
+		"id": "1999",
+		"createDate": "2019-09-06 13:39:51",
+		"updateDate": "2019-09-07 06:22:05",
+		"category": 2,
+		"name": "篮球基础",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "e078068486614d5987bce16d78cdb7f0",
+			"tname": "林仙豹"
+		},
+		"grade": "0,",
+		"timeinterval": 37,
+		"palce": "901",
+		"plannenrollment": 30,
+		"courseinfo": "篮球基础训练",
+		"creater": {
+			"id": "4f353d3b2c3547048a797f323d4834b7",
+			"name": "林仙豹",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": false
+		},
+		"updater": {
+			"id": "4f353d3b2c3547048a797f323d4834b7",
+			"name": "林仙豹",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": false
+		},
+		"enrollment": 0,
+		"teachername": "林仙豹",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 13:39:51",
+		"update_date": "2019-09-07 06:22:05"
+	}, {
+		"id": "2003",
+		"createDate": "2019-09-06 15:18:51",
+		"updateDate": "2019-09-06 23:50:20",
+		"category": 3,
+		"name": "摄影实践",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "0313c87fba154ba393b48846ce98f99e",
+			"tname": "蒋文革"
+		},
+		"grade": "0,1,",
+		"timeinterval": 37,
+		"palce": "204",
+		"plannenrollment": 20,
+		"courseinfo": "讲解摄影的主题表现、构图等基本知识，培养对摄影艺术的兴趣，拍出好看的照片。上课时需要准备可拍照的手机或照相机（照相机不建议带贵重的单反）。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "蒋文革",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 15:18:51",
+		"update_date": "2019-09-06 23:50:20"
+	}, {
+		"id": "2006",
+		"createDate": "2019-09-06 15:31:37",
+		"updateDate": "2019-09-06 22:55:46",
+		"category": 12,
+		"name": "远翔英语戏剧社",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "60145551cdc14e36a2ca87715e1d3284",
+			"tname": "老师"
+		},
+		"grade": "0,1,",
+		"timeinterval": 37,
+		"palce": "305",
+		"plannenrollment": 35,
+		"courseinfo": "演经典英语戏剧，学表演，练英文",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "老师",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 2,
+		"create_date": "2019-09-06 15:31:37",
+		"update_date": "2019-09-06 22:55:46"
+	}, {
+		"id": "1946",
+		"createDate": "2019-09-06 11:19:34",
+		"updateDate": "2019-09-06 23:41:34",
+		"category": 1,
+		"name": "远翔农场",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "0b21e05cc1e44a05afebe3d00ba112b0",
+			"tname": "何樨盛"
+		},
+		"grade": "0,",
+		"timeinterval": 28,
+		"palce": "311",
+		"plannenrollment": 30,
+		"courseinfo": "亲历并记录蔬菜从播种到采摘最后到品尝的全过程，以自然笔记、科学小论文、摄影作品等形式表述研究成果。通过该课程，学生将了解植物生长的基本过程，体验劳动的快乐，体会科学探究的乐趣，培养勤俭节约的良好习惯，走进生活，更加全面、阳光、健康地成长。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "何樨盛",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:19:34",
+		"update_date": "2019-09-06 23:41:34"
+	}, {
+		"id": "1969",
+		"createDate": "2019-09-06 11:12:31",
+		"updateDate": "2019-09-06 23:11:33",
+		"category": 10,
+		"name": "云霄飞车的设计与制作",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f7823b5e13a74349a88e35685cd46e0f",
+			"tname": "吕晓卿"
+		},
+		"grade": "0,",
+		"timeinterval": 28,
+		"palce": "4121",
+		"plannenrollment": 12,
+		"courseinfo": "课程目标是设计并制作云霄飞车、轻量座椅等装置，实现要求的目标，为参加第16届未来工程师比赛做准备。课程要求：动手能力强，喜欢搭建模型。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "吕晓卿",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:12:31",
+		"update_date": "2019-09-06 23:11:33"
+	}, {
+		"id": "1973",
+		"createDate": "2019-09-06 11:11:32",
+		"updateDate": "2019-09-06 23:49:11",
+		"category": 11,
+		"name": "读文言 学文化",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "0313c87fba154ba393b48846ce98f99e",
+			"tname": "蒋文革"
+		},
+		"grade": "0,",
+		"timeinterval": 28,
+		"palce": "101",
+		"plannenrollment": 40,
+		"courseinfo": "选择短小精悍、富于谐趣的古文小段落，提升六年级学生学习文言文的兴趣，为初中文言文学习打下基础。同时，通过文言文的学习，夯实母语根基，增进对中国文化的理解。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "蒋文革",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:11:32",
+		"update_date": "2019-09-06 23:49:11"
+	}, {
+		"id": "1975",
+		"createDate": "2019-09-06 11:11:14",
+		"updateDate": "2019-09-06 23:14:08",
+		"category": 4,
+		"name": "编织美丽人生",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "1dae68c843764aa38fffd014bfe9ed26",
+			"tname": "王宽荣"
+		},
+		"grade": "0,",
+		"timeinterval": 28,
+		"palce": "410",
+		"plannenrollment": 30,
+		"courseinfo": "学习基本的钩针钩织法，培养动手能力，设计作品，同时提高艺术修养。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "王宽荣",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:11:14",
+		"update_date": "2019-09-06 23:14:08"
+	}, {
+		"id": "1979",
+		"createDate": "2019-09-06 11:07:45",
+		"updateDate": "2019-09-07 06:12:54",
+		"category": 1,
+		"name": "数学建模",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f8c3fd3794e1471d9b4259b21a633371",
+			"tname": "丁倩文"
+		},
+		"grade": "0,",
+		"timeinterval": 28,
+		"palce": "301",
+		"plannenrollment": 35,
+		"courseinfo": "数学的应用甚广，数学建模就是根据实际问题来建立模型解决问题。通过本节课的学习，体会优化模型思想等",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "丁倩文",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:07:45",
+		"update_date": "2019-09-07 06:12:54"
+	}, {
+		"id": "2002",
+		"createDate": "2019-09-06 13:39:11",
+		"updateDate": "2019-09-06 23:46:01",
+		"category": 1,
+		"name": "趣配音",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f12b9d2503314a98b659c62e888aafc3",
+			"tname": "朱依乔"
+		},
+		"grade": "0,",
+		"timeinterval": 28,
+		"palce": "302",
+		"plannenrollment": 30,
+		"courseinfo": "通过配音，锻炼英语口语",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "朱依乔",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 13:39:11",
+		"update_date": "2019-09-06 23:46:01"
+	}, {
+		"id": "2013",
+		"createDate": "2019-09-06 16:49:05",
+		"updateDate": "2019-09-06 23:53:40",
+		"category": 10,
+		"name": "桥世界",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "60145551cdc14e36a2ca87715e1d3285",
+			"tname": "外聘老师"
+		},
+		"grade": "0,",
+		"timeinterval": 28,
+		"palce": "102",
+		"plannenrollment": 40,
+		"courseinfo": "本课程以桥为主体，了解桥相关的科学知识以及活动桥的构建",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "外聘老师",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 16:49:05",
+		"update_date": "2019-09-06 23:53:40"
+	}, {
+		"id": "1953",
+		"createDate": "2019-09-06 11:17:28",
+		"updateDate": "2019-09-07 06:12:54",
+		"category": 7,
+		"name": "探索地球的奥秘",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "fdba8fd8359547ebbfff632159d2f9ba",
+			"tname": "陈柏松"
+		},
+		"grade": "0,",
+		"timeinterval": 17,
+		"palce": "104",
+		"plannenrollment": 40,
+		"courseinfo": "探索地球的奥秘，了解地球的演变，认识地球，保护人类共有的家园。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "陈柏松",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:17:28",
+		"update_date": "2019-09-07 06:12:54"
+	}, {
+		"id": "1974",
+		"createDate": "2019-09-06 13:38:23",
+		"updateDate": "2019-09-07 07:15:01",
+		"category": 1,
+		"name": "英美影视赏析与表演",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f8c3fd3794e1471d9b4259b21a63337R",
+			"tname": "杨逸帆"
+		},
+		"grade": "0,",
+		"timeinterval": 17,
+		"palce": "102",
+		"plannenrollment": 30,
+		"courseinfo": "课程包含英美剧赏析，学习其中地道的口语表达，以及小组合作进行表演。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "杨逸帆",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 13:38:23",
+		"update_date": "2019-09-07 07:15:01"
+	}, {
+		"id": "1984",
+		"createDate": "2019-09-06 11:04:53",
+		"updateDate": "2019-09-06 23:20:04",
+		"category": 12,
+		"name": "从迪士尼电影学英语",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f12b9d2503314a98b659c62e888aafc3",
+			"tname": "朱依乔"
+		},
+		"grade": "0,",
+		"timeinterval": 17,
+		"palce": "105",
+		"plannenrollment": 40,
+		"courseinfo": "从迪士尼电影中学习文化及表达",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "朱依乔",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:04:53",
+		"update_date": "2019-09-06 23:20:04"
+	}, {
+		"id": "1990",
+		"createDate": "2019-09-06 11:02:06",
+		"updateDate": "2019-09-07 00:01:12",
+		"category": 20,
+		"name": "Discovery",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "9f6d497d5d0b41ba87bde6cea76084aa",
+			"tname": "闫雪"
+		},
+		"grade": "0,",
+		"timeinterval": 17,
+		"palce": "410",
+		"plannenrollment": 40,
+		"courseinfo": "本课程以纪录片为载体，带领学生畅游科学世界，激发学生对未知世界的探知欲望。",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "闫雪",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 11:02:06",
+		"update_date": "2019-09-07 00:01:12"
+	}, {
+		"id": "1998",
+		"createDate": "2019-09-06 13:10:35",
+		"updateDate": "2019-09-06 23:51:41",
+		"category": 4,
+		"name": "编织初级教程",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "985e62762cc44c2ab71599b0ca805a59",
+			"tname": "夏永红"
+		},
+		"grade": "0,",
+		"timeinterval": 17,
+		"palce": "101",
+		"plannenrollment": 35,
+		"courseinfo": "节日或亲人的生日，你想送上自己亲手编织的温馨的礼物吗？编织课程能帮你实现这个小小的梦想，",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "夏永红",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 13:10:35",
+		"update_date": "2019-09-06 23:51:41"
+	}, {
+		"id": "2009",
+		"createDate": "2019-09-06 15:45:58",
+		"updateDate": "2019-09-06 23:43:50",
+		"category": 3,
+		"name": "纸艺diy",
+		"semesters": "4",
+		"yxTeacher": {
+			"id": "f8c3fd3794e1471d9b4259b21a63327h",
+			"tname": "曹琳"
+		},
+		"grade": "0,",
+		"timeinterval": 17,
+		"palce": "511",
+		"plannenrollment": 20,
+		"courseinfo": "以纸为媒，打开空间想象，锻炼动手能力",
+		"creater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"updater": {
+			"id": "1",
+			"name": "admin",
+			"loginFlag": "1",
+			"roleNames": "",
+			"admin": true
+		},
+		"enrollment": 0,
+		"teachername": "曹琳",
+		"status": 1,
+		"classno": 0,
+		"elextive": 0,
+		"lessonperiod": 1,
+		"create_date": "2019-09-06 15:45:58",
+		"update_date": "2019-09-06 23:43:50"
+	}]
+}
